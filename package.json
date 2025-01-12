@@ -1,7 +1,6 @@
 {
   "name": "@qlba/cra-template-pwa-typescript",
-  "version": "2.0.0",
-  "private": false,
+  "version": "1.0.0",
   "keywords": [
     "react",
     "create-react-app",
@@ -14,7 +13,7 @@
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qlba/cra-template-pwa-typescript"
+    "url": "git+https://github.com/qlba/cra-template-pwa-typescript.git"
   },
   "license": "MIT",
   "engines": {
